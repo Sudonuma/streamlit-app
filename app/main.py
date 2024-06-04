@@ -171,7 +171,7 @@ def main():
 
     with st.container():
         st.title("Breast cancer predictor")
-        st.write("This app should be connected to an you lab")
+        st.write("This app should be connected to a lab.")
 
 
     coll1, coll2 = st.columns([4,1])
